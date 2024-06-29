@@ -1,0 +1,5 @@
+- Hello there! my name is Luke and I am a computing student currently enrolled at East Tennessee State University.
+- I enjoy writing code to make others life better even if it is a small part of their life.
+- I am currently going into my second year of college.
+- I am also a active member of my college's MATE ROV team.
+- The best way to reach me is via my email [lseal8125@gmail.com].
